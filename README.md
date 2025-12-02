@@ -19,6 +19,9 @@ Formulář musí obsahovat následující pole:
   
 - **Heslo** (povinné)
   - Minimální délka 8 znaků
+
+- **Radio pro výběr typu účtu** (povinně)
+  - Povolena právě jedna z více možností (minimálně 2), např. "Premium", "Standard", "Free"
   
 - **Checkbox pro souhlas s podmínkami** (povinné)
 
